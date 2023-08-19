@@ -8,7 +8,7 @@
 char thirdnum='0';
 System.Console.WriteLine("Введите целое число");
 string? number = Console.ReadLine();
-if ((number.Length)<3)
+if (number.Length<3)
     System.Console.WriteLine("Третьей цифры нет");
 else
     {
