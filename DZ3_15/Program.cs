@@ -16,3 +16,5 @@ if (day == 6 || day == 7)
     System.Console.WriteLine("Поздравляем! Сегодня выходной");
 else
     System.Console.WriteLine("Сегодня рабочий день");
+
+
